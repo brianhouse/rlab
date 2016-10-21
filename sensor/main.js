@@ -25,7 +25,7 @@ function onInput() {
 }
 
 function setCollection() {
-    collection = collection_input.value();
+    collection = collection_input.value().trim();
     collection_input.style('color', "gray");
 }
 
