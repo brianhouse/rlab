@@ -3,6 +3,10 @@
 Materials for a workshop on rhythmanalysis
 
 
+## Notes
+
+Run the sensor app locally: `python -m SimpleHTTPServer` in the `sensor` directory.
+
 
 
 ### Copyright/License
