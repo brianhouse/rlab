@@ -5,7 +5,7 @@ Materials for a workshop on rhythmanalysis
 
 ## Create an mlab account
 
-- Sign up at `https://mlab.com/`
+- Sign up at [mLab](https://mlab.com/)
 - Verify your email address
 - Click `Create new`
 - Select `Amazon web services` and  `US East` for the provider
@@ -21,8 +21,8 @@ Materials for a workshop on rhythmanalysis
 
 ## Local setup
 
-- In the terminal, type `git clone https://github.com/brianhouse/rlab` if you have git, or just download from `https://github.com/brianhouse/rlab`
-- Open the directory in a text editing environment such as Sublime, like `sublime rlab`
+- In the terminal, type `git clone https://github.com/brianhouse/rlab` if you have git, or just [download](https://github.com/brianhouse/rlab)
+- Open the directory in a text editing environment such as [Sublime](https://www.sublimetext.com/3), like `sublime rlab`
 - Create a file in `rlab/sensor` called `credentials.js` that contains:  
     `base = "https://api.mlab.com/api/1/databases/";`  
     `apiKey = "YOURAPIKEY";`  
@@ -35,7 +35,7 @@ Materials for a workshop on rhythmanalysis
 
 ## Install miniconda
 
-- Visit http://conda.pydata.org/miniconda.html
+- Visit [miniconda](http://conda.pydata.org/miniconda.html)
 - Click on "64-bit (bash installer)" for the Python 3.5 option
 - In your terminal, navigate to the downloaded file and type `bash Miniconda3-latest-MacOSX-x86_64.sh` (or equivalent for your platform)
 - Approve the terms
